@@ -5,7 +5,7 @@ An advanced, conversational coding agent that runs directly in your terminal, bu
 ## Features
 - 🚀 **Fast**: Powered by the Bun runtime.
 - 💻 **Beautiful UI**: Built with React and Ink for a polished terminal experience.
-- 🧠 **Smart**: Uses Gemini 3.1 Pro for advanced reasoning.
+- 🧠 **Smart**: Uses Gemini 3 flash for fast and advanced reasoning.
 - 🛠️ **Tools**: Can read/write files and execute shell commands.
 - 🛡️ **Secure**: Prompts for permission before executing destructive actions.
 
