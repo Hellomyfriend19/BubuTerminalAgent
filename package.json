@@ -1,0 +1,21 @@
+{
+  "name": "terminal-agent",
+  "version": "1.0.0",
+  "description": "A conversational coding agent for the terminal",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "bun run src/index.tsx",
+    "dev": "bun run --watch src/index.tsx"
+  },
+  "dependencies": {
+    "@google/genai": "^1.48.0",
+    "ink": "^4.4.1",
+    "ink-spinner": "^5.0.0",
+    "ink-text-input": "^5.0.1",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "typescript": "^5.0.0"
+  }
+}
